@@ -8,8 +8,8 @@ I am a 3rd-year Computer Science and Engineering student at VIT University, Vell
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sdaram7) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihitha-daram-686184241/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihitha-daram-686184241/)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DaramSrihitha11&icon=0&color=0)](https://visitcount.itsvg.in)
 
